@@ -1,0 +1,5 @@
+export enum actionTypes{
+    INCREMENT = "INCREMENT",
+    DECREMENT = "DECREMENT",
+    CHANGEINPUT = "CHANGEINPUT"
+}
